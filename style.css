@@ -41,10 +41,10 @@ main {
 }
 
 main .mainCard {
-  width: 40rem;
-  height: 57rem;
+  width: 50rem;
+  height: 50rem;
   border-radius: 50px;
-  background: #e0e0e0;
+  background: #a9f4ec;
   box-shadow: 20px 20px 60px #000000, -20px -20px 60px #000000;
 
 }
@@ -63,8 +63,8 @@ main .mainCard .header .logo {
   width: 15rem;
   height: 15rem;
   border-radius: 50%;
-  background: #ff0000;
-  box-shadow: 20px 20px 60px #ffffff, -20px -20px 60px #ffffff;
+  background: #293c5f;
+  box-shadow: 20px 20px 60px #ffffff, -20px -20px 60px #7c2323;
   display: grid;
   place-items: center;
   transform-style: preserve-3d;
